@@ -2,14 +2,14 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://yunzhaoyu2050.github.io/zh-cn/theme-documentation-content/</loc><lastmod>2022-04-22T17:55:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://yunzhaoyu2050.github.io/zh-cn/strategy/</loc><lastmod>2022-04-23T23:43:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
-                        href="https://yunzhaoyu2050.github.io/theme-documentation-content/"
+                        href="https://yunzhaoyu2050.github.io/strategy/"
                         /><xhtml:link
                     rel="alternate"
                     hreflang="zh-cn"
-                    href="https://yunzhaoyu2050.github.io/zh-cn/theme-documentation-content/"
+                    href="https://yunzhaoyu2050.github.io/zh-cn/strategy/"
                     /></url><url>
             <loc>https://yunzhaoyu2050.github.io/zh-cn/emoji-support/</loc><lastmod>2022-04-22T17:55:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
@@ -20,7 +20,7 @@
                     hreflang="zh-cn"
                     href="https://yunzhaoyu2050.github.io/zh-cn/emoji-support/"
                     /></url><url>
-            <loc>https://yunzhaoyu2050.github.io/zh-cn/categories/</loc><lastmod>2022-04-22T17:55:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://yunzhaoyu2050.github.io/zh-cn/categories/</loc><lastmod>2022-04-23T23:43:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://yunzhaoyu2050.github.io/categories/"
@@ -29,16 +29,7 @@
                     hreflang="zh-cn"
                     href="https://yunzhaoyu2050.github.io/zh-cn/categories/"
                     /></url><url>
-            <loc>https://yunzhaoyu2050.github.io/zh-cn/tags/markdown/</loc><lastmod>2022-04-22T17:55:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://yunzhaoyu2050.github.io/tags/markdown/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://yunzhaoyu2050.github.io/zh-cn/tags/markdown/"
-                    /></url><url>
-            <loc>https://yunzhaoyu2050.github.io/zh-cn/posts/</loc><lastmod>2022-04-22T17:55:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://yunzhaoyu2050.github.io/zh-cn/posts/</loc><lastmod>2022-04-23T23:43:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://yunzhaoyu2050.github.io/posts/"
@@ -47,7 +38,25 @@
                     hreflang="zh-cn"
                     href="https://yunzhaoyu2050.github.io/zh-cn/posts/"
                     /></url><url>
-            <loc>https://yunzhaoyu2050.github.io/zh-cn/tags/</loc><lastmod>2022-04-22T17:55:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://yunzhaoyu2050.github.io/zh-cn/tags/strategy/</loc><lastmod>2022-04-23T23:43:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://yunzhaoyu2050.github.io/tags/strategy/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://yunzhaoyu2050.github.io/zh-cn/tags/strategy/"
+                    /></url><url>
+            <loc>https://yunzhaoyu2050.github.io/zh-cn/categories/strategy/</loc><lastmod>2022-04-23T23:43:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://yunzhaoyu2050.github.io/categories/strategy/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="zh-cn"
+                    href="https://yunzhaoyu2050.github.io/zh-cn/categories/strategy/"
+                    /></url><url>
+            <loc>https://yunzhaoyu2050.github.io/zh-cn/tags/</loc><lastmod>2022-04-23T23:43:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://yunzhaoyu2050.github.io/tags/"
@@ -56,7 +65,7 @@
                     hreflang="zh-cn"
                     href="https://yunzhaoyu2050.github.io/zh-cn/tags/"
                     /></url><url>
-            <loc>https://yunzhaoyu2050.github.io/zh-cn/</loc><lastmod>2022-04-22T17:55:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://yunzhaoyu2050.github.io/zh-cn/</loc><lastmod>2022-04-23T23:43:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://yunzhaoyu2050.github.io/"
@@ -92,15 +101,7 @@
                     hreflang="zh-cn"
                     href="https://yunzhaoyu2050.github.io/zh-cn/about/"
                     /></url><url>
-            <loc>https://yunzhaoyu2050.github.io/zh-cn/tags/content/</loc><lastmod>2022-04-22T17:55:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="https://yunzhaoyu2050.github.io/tags/content/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="zh-cn"
-                    href="https://yunzhaoyu2050.github.io/zh-cn/tags/content/"
-                    /></url><url>
+            <loc>https://yunzhaoyu2050.github.io/zh-cn/tags/content/</loc><lastmod>2022-04-22T17:55:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://yunzhaoyu2050.github.io/zh-cn/tags/installation/</loc><lastmod>2022-04-22T17:55:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://yunzhaoyu2050.github.io/zh-cn/categories/documentation/</loc><lastmod>2022-04-22T17:55:19&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"

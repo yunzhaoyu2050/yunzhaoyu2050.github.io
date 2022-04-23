@@ -1,0 +1,78 @@
+# strategy
+
+
+-----
+**Strategy** `(from` [`Greek`](https://en.wikipedia.org/wiki/Ancient_Greek) `στρατηγία` *stratēgia*`, "art of troop leader; office of general, command, generalship"`[[1]](https://en.wikipedia.org/wiki/Strategy#cite_note-1)`) is a general` [`plan`](https://en.wikipedia.org/wiki/Plan) `to achieve one or more long-term or overall` [`goals`](https://en.wikipedia.org/wiki/Goal) `under conditions of` [`uncertainty`](https://en.wikipedia.org/wiki/Uncertainty)`. In the sense of the "`[`art`](https://en.wikipedia.org/wiki/Art_(skill)) `of the general", which included several subsets of skills including` [`military tactics`](https://en.wikipedia.org/wiki/Military_tactics)`,` [`siegecraft`](https://en.wikipedia.org/wiki/Siegecraft)`,` [`logistics`](https://en.wikipedia.org/wiki/Logistics) `etc., the term came into use in the 6th century C.E. in` [`Eastern Roman`](https://en.wikipedia.org/wiki/Eastern_Roman) `terminology, and was translated into Western` [`vernacular languages`](https://en.wikipedia.org/wiki/Vernacular_languages) `only in the 18th century. From then until the 20th century, the word "strategy" came to denote "a comprehensive way to try to pursue political ends, including the threat or actual use of force, in a dialectic of wills" in a` [`military conflict`](https://en.wikipedia.org/wiki/Military_conflict)`, in which both adversaries interact.`[[2]](https://en.wikipedia.org/wiki/Strategy#cite_note-LFreedman2013-2)
+
+`Strategy is important because the resources available to achieve goals are usually limited. Strategy generally involves setting goals and priorities, determining actions to achieve the goals, and mobilizing resources to execute the actions.`[[2]](https://en.wikipedia.org/wiki/Strategy#cite_note-LFreedman2013-2)`A strategy describes how the ends (goals) will be achieved by the means (resources).`[[3]](https://en.wikipedia.org/wiki/Strategy#cite_note-3) `Strategy can be intended or can emerge as a pattern of activity as the organization adapts to its environment or competes.`[[2]](https://en.wikipedia.org/wiki/Strategy#cite_note-LFreedman2013-2) `It involves activities such as` [`strategic planning`](https://en.wikipedia.org/wiki/Strategic_planning) `and` [`strategic thinking`](https://en.wikipedia.org/wiki/Strategic_thinking)`.`[[4]](https://en.wikipedia.org/wiki/Strategy#cite_note-Mintzberg_and_Quinn_1996-4)
+
+[`Henry Mintzberg`](https://en.wikipedia.org/wiki/Henry_Mintzberg) `from` [`McGill University`](https://en.wikipedia.org/wiki/McGill_University) `defined strategy as a pattern in a stream of decisions to contrast with a view of strategy as planning,`[[5]](https://en.wikipedia.org/wiki/Strategy#cite_note-charlesw-5) `while Henrik von Scheel defines the essence of strategy as the activities to deliver a unique mix of value – choosing to perform activities differently or to perform different activities than rivals.`[[6]](https://en.wikipedia.org/wiki/Strategy#cite_note-source-6) `while` [`Max McKeown`](https://en.wikipedia.org/wiki/Max_McKeown) `(2011) argues that "strategy is about shaping the` [`future`](https://en.wikipedia.org/wiki/Future)`" and is the human attempt to get to "desirable ends with available means". Dr.` [`Vladimir Kvint`](https://en.wikipedia.org/wiki/Vladimir_Kvint) `defines strategy as "a system of finding, formulating, and developing a doctrine that will ensure long-term success if followed faithfully."`[[7]](https://en.wikipedia.org/wiki/Strategy#cite_note-7) `Complexity theorists define strategy as the unfolding of the internal and external aspects of the organization that results in actions in a socio-economic context.`[[8]](https://en.wikipedia.org/wiki/Strategy#cite_note-8)[[9]](https://en.wikipedia.org/wiki/Strategy#cite_note-9)[[10]](https://en.wikipedia.org/wiki/Strategy#cite_note-10)
+
+
+## Components
+
+`Professor` [`Richard P. Rumelt`](https://en.wikipedia.org/wiki/Richard_Rumelt) `described strategy as a type of problem solving in 2011. He wrote that good strategy has an underlying structure he called a` *kernel*`. The kernel has three parts: 1) A` *diagnosis* `that defines or explains the nature of the challenge; 2) A` *guiding policy* `for dealing with the challenge; and 3) Coherent` *actions* `designed to carry out the guiding policy.`[[11]](https://en.wikipedia.org/wiki/Strategy#cite_note-Rumelt2011-11) `President` [`Kennedy`](https://en.wikipedia.org/wiki/John_F._Kennedy) `illustrated these three elements of strategy in his` [`Cuban Missile Crisis`](https://en.wikipedia.org/wiki/Cuban_Missile_Crisis) `Address to the Nation of 22 October 1962:`
+
+1. `Diagnosis: "This Government, as promised, has maintained the closest surveillance of the Soviet military buildup on the island of Cuba. Within the past week, unmistakable evidence has established the fact that a series of offensive missile sites are now in preparation on that imprisoned island. The purpose of these bases can be none other than to provide a` [`nuclear`](https://en.wikipedia.org/wiki/Nuclear_weapon) `strike capability against the Western Hemisphere."`
+2. `Guiding Policy: "Our unswerving objective, therefore, must be to prevent the use of these missiles against this or any other country, and to secure their withdrawal or elimination from the Western Hemisphere."`
+3. `Action Plans: First among seven numbered steps was the following: "To halt this offensive buildup a strict quarantine on all offensive military equipment under shipment to Cuba is being initiated. All ships of any kind bound for Cuba from whatever nation or port will, if found to contain cargoes of offensive weapons, be turned back."`[[12]](https://en.wikipedia.org/wiki/Strategy#cite_note-12)
+
+`Rumelt wrote in 2011 that three important aspects of strategy include "premeditation, the anticipation of others' behavior, and the purposeful design of coordinated actions." He described strategy as solving a design problem, with trade-offs among various elements that must be arranged, adjusted and coordinated, rather than a plan or choice.`[[11]](https://en.wikipedia.org/wiki/Strategy#cite_note-Rumelt2011-11)
+
+## Formulation and implementation
+
+`Strategy typically involves two major processes:` [*formulation*](https://en.wikipedia.org/wiki/Formulation) `and` [*implementation*](https://en.wikipedia.org/wiki/Implementation)`.` *Formulation* `involves analyzing the environment or situation, making a diagnosis, and developing guiding policies. It includes such activities as` [`strategic planning`](https://en.wikipedia.org/wiki/Strategic_planning) `and` [`strategic thinking`](https://en.wikipedia.org/wiki/Strategic_thinking)`.` *Implementation* `refers to the action plans taken to achieve the goals established by the guiding policy.`[[4]](https://en.wikipedia.org/wiki/Strategy#cite_note-Mintzberg_and_Quinn_1996-4)[[11]](https://en.wikipedia.org/wiki/Strategy#cite_note-Rumelt2011-11)
+
+[`Bruce Henderson`](https://en.wikipedia.org/wiki/Bruce_Henderson) `wrote in 1981 that: "Strategy depends upon the ability to foresee future consequences of present initiatives." He wrote that the basic requirements for strategy development include, among other factors: 1) extensive knowledge about the environment, market and competitors; 2) ability to examine this knowledge as an interactive dynamic system; and 3) the imagination and logic to choose between specific alternatives. Henderson wrote that strategy was valuable because of: "finite resources, uncertainty about an adversary's capability and intentions; the irreversible commitment of resources; necessity of coordinating action over time and distance; uncertainty about control of the initiative; and the nature of adversaries' mutual perceptions of each other."`[[13]](https://en.wikipedia.org/wiki/Strategy#cite_note-13)
+
+## Military theory
+
+*Main article:* [*Military strategy*](https://en.wikipedia.org/wiki/Military_strategy)
+
+Subordinating the political point of view to the military would be absurd, for it is policy that has created war...Policy is the guiding intelligence, and war only the instrument, not vice-versa.
+
+[On War](https://en.wikipedia.org/wiki/On_War) by [Carl von Clausewitz](https://en.wikipedia.org/wiki/Carl_von_Clausewitz)
+
+`In military theory, strategy is "the utilization during both peace and war, of all of the nation's forces, through large scale, long-range planning and development, to ensure security and victory" (`*Random House Dictionary*`).`[[5]](https://en.wikipedia.org/wiki/Strategy#cite_note-charlesw-5)
+
+`The father of Western modern` [`strategic study`](https://en.wikipedia.org/wiki/Strategic_studies)`,` [`Carl von Clausewitz`](https://en.wikipedia.org/wiki/Carl_von_Clausewitz)`, defined military strategy as "the employment of battles to gain the end of war."` [`B. H. Liddell Hart`](https://en.wikipedia.org/wiki/B._H._Liddell_Hart)`'s definition put less emphasis on battles, defining strategy as "the art of distributing and applying military means to fulfill the ends of policy".`[[14]](https://en.wikipedia.org/wiki/Strategy#cite_note-14) `Hence, both gave the pre-eminence to political aims over military goals. U.S. Naval War College instructor Andrew Wilson defined strategy as the "process by which political purpose is translated into military action."`[[15]](https://en.wikipedia.org/wiki/Strategy#cite_note-Wilson2012-15) [`Lawrence Freedman`](https://en.wikipedia.org/wiki/Lawrence_Freedman) `defined strategy as the "art of creating power."`[[16]](https://en.wikipedia.org/wiki/Strategy#cite_note-16)
+
+`Eastern` [`military`](https://en.wikipedia.org/wiki/Military) `philosophy dates back much further, with examples such as` [*The Art of War*](https://en.wikipedia.org/wiki/The_Art_of_War) `by` [`Sun Tzu`](https://en.wikipedia.org/wiki/Sun_Tzu) `dated around 500 B.C.`[[17]](https://en.wikipedia.org/wiki/Strategy#cite_note-Lionel_Giles_2007-17)
+
+## Management theory
+
+*Main article:* [*Strategic management*](https://en.wikipedia.org/wiki/Strategic_management)
+
+The essence of formulating competitive strategy is relating a company to its environment.
+
+[Michael Porter](https://en.wikipedia.org/wiki/Michael_Porter)[^\[18\]^](https://en.wikipedia.org/wiki/Strategy#cite_note-Porter1980-18)
+
+`Modern business strategy emerged as a field of study and practice in the 1960s; prior to that time, the words "strategy" and "competition" rarely appeared in the most prominent management literature.`[[19]](https://en.wikipedia.org/wiki/Strategy#cite_note-LOS2010-19)[[20]](https://en.wikipedia.org/wiki/Strategy#cite_note-Ghemawat1-20) [`Alfred Chandler`](https://en.wikipedia.org/wiki/Alfred_D._Chandler,_Jr.) `wrote in 1962 that: "Strategy is the` [`determination`](https://en.wikipedia.org/wiki/Determination) `of the basic long-term goals of an` [`enterprise`](https://en.wikipedia.org/wiki/Business)`, and the adoption of courses of action and the allocation of resources necessary for carrying out these goals."`[[21]](https://en.wikipedia.org/wiki/Strategy#cite_note-21) [`Michael Porter`](https://en.wikipedia.org/wiki/Michael_Porter) `defined strategy in 1980 as the "...broad formula for how a business is going to compete, what its goals should be, and what policies will be needed to carry out those goals" and the "...combination of the` *ends* `(goals) for which the firm is striving and the` *means* `(policies) by which it is seeking to get there."`[[18]](https://en.wikipedia.org/wiki/Strategy#cite_note-Porter1980-18)
+
+[`Henry Mintzberg`](https://en.wikipedia.org/wiki/Henry_Mintzberg) `described five definitions of strategy in 1998:`
+
+- `Strategy as plan – a directed course of action to achieve an` *intended* `set of goals; similar to the strategic planning concept;`
+- `Strategy as pattern – a consistent pattern of past behavior, with a strategy` *realized* `over time rather than planned or` *intended*`. Where the realized pattern was different from the intent, he referred to the strategy as` *emergent*`;`
+- `Strategy as position – locating brands, products, or companies within the market, based on the conceptual framework of consumers or other stakeholders; a strategy determined primarily by factors outside the firm;`
+- `Strategy as ploy – a specific maneuver intended to outwit a competitor; and`
+- `Strategy as perspective – executing strategy based on a "theory of the business" or natural extension of the mindset or ideological perspective of the organization.`[[22]](https://en.wikipedia.org/wiki/Strategy#cite_note-22)
+
+## Strategies
+
+`In` [`game theory`](https://en.wikipedia.org/wiki/Game_theory)`, a` *strategy* `refers to the rules that a` [`player`](https://en.wikipedia.org/wiki/Player_(game)) `uses to choose between the available actionable options. Every player in a` [`non-trivial game`](https://en.wikipedia.org/wiki/Non-cooperative_game) `has a set of possible strategies to use when choosing what moves to make.`
+
+`A strategy may recursively` [`look ahead`](https://en.wikipedia.org/wiki/Minimax) `and consider what actions can happen in each contingent state of the game—e.g. if the player takes action 1, then that presents the opponent with a certain situation, which might be good or bad, whereas if the player takes action 2 then the opponents will be presented with a different situation, and in each case the choices they make will determine their own future situation.`
+
+`Strategies in game theory may be` [`random (mixed)`](https://en.wikipedia.org/wiki/Mixed_strategy) `or deterministic (pure). Pure strategies can be thought of as a special case of mixed strategies, in which only` [`probabilities`](https://en.wikipedia.org/wiki/Probability) `0 or 1 are assigned to actions.`
+
+`Strategy based games generally require a player to think through a sequence of solutions to determine the best way to defeat the opponent.`
+
+## Counterterrorism Strategy
+
+`Because` [`counterterrorism`](https://en.wikipedia.org/wiki/Counter-terrorism) `involves the synchronized efforts of numerous competing bureaucratic entities, national governments frequently create overarching counterterrorism strategies at the national level.`[[23]](https://en.wikipedia.org/wiki/Strategy#cite_note-:0-23) `A national counterterrorism strategy is a government's plan to use the instruments of national power to neutralize terrorists, their organizations, and their networks in order to render them incapable of using violence to instill fear and to coerce the government or its citizens to react in accordance with the terrorists' goals.`[[23]](https://en.wikipedia.org/wiki/Strategy#cite_note-:0-23) `The United States has had several such strategies in the past, including the` *United States National Strategy for Counterterrorism* `(2018);`[[24]](https://en.wikipedia.org/wiki/Strategy#cite_note-24) `the Obama-era` *National Strategy for Counterterrorism* `(2011); and the` *National Strategy for Combatting Terrorism* `(2003). There have also been a number of ancillary or supporting plans, such as the 2014` *Strategy to Counter the Islamic State of Iraq and the Levant*`, and the 2016` *Strategic Implementation Plan for Empowering Local Partners to Prevent Violent Extremism in the United States*`.`[[23]](https://en.wikipedia.org/wiki/Strategy#cite_note-:0-23) `Similarly, the United Kingdom's counterterrorism strategy,` [`CONTEST`](https://en.wikipedia.org/wiki/CONTEST)`, seeks "to reduce the risk to the UK and its citizens and interests overseas from terrorism, so that people can go about their lives freely and with confidence."`[[25]](https://en.wikipedia.org/wiki/Strategy#cite_note-25)
+
+
+Link <[https://en.wikipedia.org/wiki/Strategy](https://en.wikipedia.org/wiki/Strategy)\>
+
+
+-----
