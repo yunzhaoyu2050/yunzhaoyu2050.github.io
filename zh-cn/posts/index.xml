@@ -4,7 +4,14 @@
         <link>https://yunzhaoyu2050.github.io/zh-cn/posts/</link>
         <description>所有文章 | zhaoyu</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>yunzhaoyu521@gmail.com (zhaoyu)</managingEditor>
-            <webMaster>yunzhaoyu521@gmail.com (zhaoyu)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 23 Apr 2022 23:43:00 &#43;0800</lastBuildDate><atom:link href="https://yunzhaoyu2050.github.io/zh-cn/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>yunzhaoyu521@gmail.com (zhaoyu)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 25 Apr 2022 00:04:00 &#43;0800</lastBuildDate><atom:link href="https://yunzhaoyu2050.github.io/zh-cn/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Github Pages 站点博客搭建</title>
+    <link>https://yunzhaoyu2050.github.io/zh-cn/github_blog/</link>
+    <pubDate>Mon, 25 Apr 2022 00:04:00 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://yunzhaoyu2050.github.io/zh-cn/github_blog/</guid>
+    <description><![CDATA[框架选择 Hugo About Hugo Github pages Creating a GitHub Pages site About GitHub Pages Changing the visibility of your GitHub Pages site Example 使用 Hugo + Github 搭建个人博客 Hugo系列(1) - 简单搭建教程与远程部署 ubuntu搭建hugo]]></description>
+</item><item>
     <title>策略</title>
     <link>https://yunzhaoyu2050.github.io/zh-cn/strategy/</link>
     <pubDate>Sat, 23 Apr 2022 23:43:00 &#43;0800</pubDate>

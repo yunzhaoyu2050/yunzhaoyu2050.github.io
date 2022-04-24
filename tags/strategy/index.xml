@@ -4,7 +4,17 @@
         <link>https://yunzhaoyu2050.github.io/tags/strategy/</link>
         <description>strategy - Tag - zhaoyu</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>yunzhaoyu521@gmail.com (zhaoyu)</managingEditor>
-            <webMaster>yunzhaoyu521@gmail.com (zhaoyu)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 23 Apr 2022 23:43:00 &#43;0800</lastBuildDate><atom:link href="https://yunzhaoyu2050.github.io/tags/strategy/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>yunzhaoyu521@gmail.com (zhaoyu)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 25 Apr 2022 00:04:00 &#43;0800</lastBuildDate><atom:link href="https://yunzhaoyu2050.github.io/tags/strategy/" rel="self" type="application/rss+xml" /><item>
+    <title>Github Pages Site Blog &#39; Set Up</title>
+    <link>https://yunzhaoyu2050.github.io/github_blog/</link>
+    <pubDate>Mon, 25 Apr 2022 00:04:00 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://yunzhaoyu2050.github.io/github_blog/</guid>
+    <description><![CDATA[框架选择 Hugo  About Hugo  Github pages  Creating a GitHub Pages site About GitHub Pages Changing the visibility of your GitHub Pages site  Example  使用 Hugo + Github 搭建个人博客 Hugo系列(1) - 简单搭建教程与远程部署 ubuntu搭建hugo博客环境 个人博客的创建之路1：hugo 搭建个人博客  主题选择   Hugo Themes
+  LoveIt Theme 当前的博客主题采用LoveIt主题模板进行搭建的，可以参考LoveIt官方提供的搭建方案，LoveIt提供了丰富的可配置选项。
+当前列出 LoveIt 主题的内容链接，方便查看:
+LoveIt  主题文档 - 基本概念 主题文档 - 内容 主题文档 - 内置 Shortcodes 主题文档 - 扩展 Shortcodes Markdown 基本语法 Emoji 支持    主题修改(自定义样式) ​	参照 雨临Lewis 所发表的系列博客]]></description>
+</item><item>
     <title>strategy</title>
     <link>https://yunzhaoyu2050.github.io/strategy/</link>
     <pubDate>Sat, 23 Apr 2022 23:43:00 &#43;0800</pubDate>
