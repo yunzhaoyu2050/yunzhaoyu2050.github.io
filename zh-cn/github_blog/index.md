@@ -1,6 +1,10 @@
 # Github Pages 站点博客搭建
 
 
+<!--more-->
+Github Pages 博客搭建流程及相关参考链接
+<!--more-->
+
 ## 框架选择
 
 ### Hugo
@@ -31,22 +35,22 @@
   
   ### **LoveIt**
   
-  1. [*主题文档 - 基本概念*](https://hugoloveit.com/zh-cn/theme-documentation-basics/)
-  2. [*主题文档 - 内容*](https://hugoloveit.com/zh-cn/theme-documentation-content/)
-  3. [*主题文档 - 内置      Shortcodes*](https://hugoloveit.com/zh-cn/theme-documentation-built-in-shortcodes/)
-  4. [*主题文档 - 扩展      Shortcodes*](https://hugoloveit.com/zh-cn/theme-documentation-extended-shortcodes/)
-  5. [*Markdown 基本语法*](https://hugoloveit.com/zh-cn/basic-markdown-syntax/)
-  6. [*Emoji 支持*](https://hugoloveit.com/zh-cn/emoji-support/)
+  - [*主题文档 - 基本概念*](https://hugoloveit.com/zh-cn/theme-documentation-basics/)
+  - [*主题文档 - 内容*](https://hugoloveit.com/zh-cn/theme-documentation-content/)
+  - [*主题文档 - 内置      Shortcodes*](https://hugoloveit.com/zh-cn/theme-documentation-built-in-shortcodes/)
+  - [*主题文档 - 扩展      Shortcodes*](https://hugoloveit.com/zh-cn/theme-documentation-extended-shortcodes/)
+  - [*Markdown 基本语法*](https://hugoloveit.com/zh-cn/basic-markdown-syntax/)
+  - [*Emoji 支持*](https://hugoloveit.com/zh-cn/emoji-support/)
 
 ## 主题修改(自定义样式)
 
 ​	`参照` [**雨临Lewis**](https://lewky.cn/) `所发表的系列博客`
 
-1. ​	[*Hugo系列(3.0) - LoveIt主题美化与博客功能增强 · 第一章*](https://lewky.cn/posts/hugo-3.html/)
+- [*Hugo系列(3.0) - LoveIt主题美化与博客功能增强 · 第一章*](https://lewky.cn/posts/hugo-3.html/)
 
-2. ​	[*Hugo系列(3.1) - LoveIt主题美化与博客功能增强 · 第二章*](https://lewky.cn/posts/hugo-3.1.html/)
-3. ​	[*Hugo系列(3.2) - LoveIt主题美化与博客功能增强 · 第三章*](https://lewky.cn/posts/hugo-3.2.html/)
-4. ​	[*Hugo系列(3.3) - LoveIt主题美化与博客功能增强 · 第四章*](https://lewky.cn/posts/hugo-3-3/)
+- [*Hugo系列(3.1) - LoveIt主题美化与博客功能增强 · 第二章*](https://lewky.cn/posts/hugo-3.1.html/)
+- [*Hugo系列(3.2) - LoveIt主题美化与博客功能增强 · 第三章*](https://lewky.cn/posts/hugo-3.2.html/)
+- [*Hugo系列(3.3) - LoveIt主题美化与博客功能增强 · 第四章*](https://lewky.cn/posts/hugo-3-3/)
 
 
 ## 仓库搭建
