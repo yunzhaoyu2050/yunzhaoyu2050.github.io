@@ -126,7 +126,7 @@ Github Pages Site Blog Construction process related and reference
 
 ​	之前的大部分笔记都存储在**onenote**中，利用***onenote+onedriver***的模式实现笔记编辑及云端存储。现在更改为***md+github_pages***来实现笔记存储。
 
-	1. *所以需要将笔记从onenote转换至github pages上。*
+1. ***所以需要将笔记从onenote转换至github pages上。***
 
 {{< admonition warning >}}
 当前转换流程需要在onenote中安装onemark插件来实现
@@ -185,15 +185,31 @@ work分区组/ -- 存储工作相关
 
 ###   文章标签计划
 
-    `xxx`
+文章内容的关键词，***在文章编辑时自定义***。
 
 ###   文章测试预览
 
-    `xxx`
+参照hugo官方教程及命令:
+
+```shell
+hugo server --theme=LoveIt --buildDrafts -e production # 调试时加载评论系统
+```
+
+```shell
+hugo server --theme=LoveIt --buildDrafts  # --buildDrafts意为“编译草稿（draft: true的Markdown文件）
+```
 
 ###   文章上线流程
 
-    `xxx`
+参照***github action自动化构建流程搭建***章节
+
+`编辑完md文件后使用github action自动触发流水线推送至xxx.github.io仓库。`
+
+
+
+**文章终**
+
+![Dreamdog](https://walli.quosmos.com/files/thumbs/c/d/c/cdc326a8a14a2727a9eb39b1bb840d062857d361/DreamdogSQ__800_800.png)
 
 
 -----
