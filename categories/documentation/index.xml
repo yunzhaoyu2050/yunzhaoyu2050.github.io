@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Documentation - Category - zhaoyu</title>
-        <link>https://yunzhaoyu2050.github.io/categories/documentation/</link>
+        <link>https://zhaoyu.org.cn/categories/documentation/</link>
         <description>Documentation - Category - zhaoyu</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>yunzhaoyu521@gmail.com (zhaoyu)</managingEditor>
-            <webMaster>yunzhaoyu521@gmail.com (zhaoyu)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://yunzhaoyu2050.github.io/categories/documentation/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>yunzhaoyu521@gmail.com (zhaoyu)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://zhaoyu.org.cn/categories/documentation/" rel="self" type="application/rss+xml" /></channel>
 </rss>

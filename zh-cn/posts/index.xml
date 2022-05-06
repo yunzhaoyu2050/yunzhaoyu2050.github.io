@@ -1,22 +1,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>所有文章 - zhaoyu</title>
-        <link>https://yunzhaoyu2050.github.io/zh-cn/posts/</link>
+        <link>https://zhaoyu.org.cn/zh-cn/posts/</link>
         <description>所有文章 | zhaoyu</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>yunzhaoyu521@gmail.com (zhaoyu)</managingEditor>
-            <webMaster>yunzhaoyu521@gmail.com (zhaoyu)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 25 Apr 2022 00:04:00 &#43;0800</lastBuildDate><atom:link href="https://yunzhaoyu2050.github.io/zh-cn/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>yunzhaoyu521@gmail.com (zhaoyu)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 25 Apr 2022 00:04:00 &#43;0800</lastBuildDate><atom:link href="https://zhaoyu.org.cn/zh-cn/posts/" rel="self" type="application/rss+xml" /><item>
     <title>Github Pages 站点博客搭建</title>
-    <link>https://yunzhaoyu2050.github.io/zh-cn/github_blog/</link>
+    <link>https://zhaoyu.org.cn/zh-cn/github_blog/</link>
     <pubDate>Mon, 25 Apr 2022 00:04:00 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://yunzhaoyu2050.github.io/zh-cn/github_blog/</guid>
+    <guid>https://zhaoyu.org.cn/zh-cn/github_blog/</guid>
     <description><![CDATA[Github Pages 博客搭建流程及相关参考链接]]></description>
 </item><item>
     <title>策略</title>
-    <link>https://yunzhaoyu2050.github.io/zh-cn/strategy/</link>
+    <link>https://zhaoyu.org.cn/zh-cn/strategy/</link>
     <pubDate>Sat, 23 Apr 2022 23:43:00 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>https://yunzhaoyu2050.github.io/zh-cn/strategy/</guid>
+    <guid>https://zhaoyu.org.cn/zh-cn/strategy/</guid>
     <description><![CDATA[策略、战略、计策、谋略、计谋、诡计等近义词一般意思是为实现任务而制定和采取的行动方针和手段。 策略/战略（通常可以互换着使用）还可以指： 策略 (]]></description>
 </item></channel>
 </rss>
